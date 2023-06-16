@@ -1,7 +1,10 @@
-# netflix-clone-landing-page
+# Netflix-clone-landing-page
 
 Netflix Landing Page Clone made with HTML and CSS. I have also made it responsive to work on various devices.
 
+
+# Click here to live link :- 
+ https://vinaylodhi1712.github.io/netflix-clone-landing-page/
 
 ## Screenshots📸
 
@@ -12,6 +15,6 @@ Netflix Landing Page Clone made with HTML and CSS. I have also made it responsiv
 ![Netflix ss3](https://github.com/VinayLodhi1712/netflix-clone-landing-page/assets/135756009/0ebd5af1-df4c-49b3-85a3-0138ec867160)
 
 
-##License
+## License
 
 Copyright (c) Vinay Anand Lodhi
